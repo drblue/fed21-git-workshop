@@ -5,3 +5,5 @@ Me: Word.
 
 - Why did the programmer quit his job?
 - Because he didn't get arrays.
+
+Git never rains but Git pours
