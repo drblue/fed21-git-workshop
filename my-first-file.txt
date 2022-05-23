@@ -2,3 +2,6 @@ Boss: How good are you at PowerPoint?
 Me: I Excel at it.
 Boss: Was that an Microsoft Office pun?
 Me: Word.
+
+- Why did the programmer quit his job?
+- Because he didn't get arrays.
